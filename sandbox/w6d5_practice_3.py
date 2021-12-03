@@ -1,6 +1,5 @@
-from bs4 import BeautifulSoup 
 import requests
-from requests.sessions import Request
+from bs4 import BeautifulSoup
 
 
 class PRCrawl:
